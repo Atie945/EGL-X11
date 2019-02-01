@@ -1,0 +1,1 @@
+Build: gcc ./egl.c -lX11 -lGL -lEGL
